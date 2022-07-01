@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11f18b0-de3c-4331-9bd0-e4a1e99b3adf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Task_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="a11f18b0-de3c-4331-9bd0-e4a1e99b3adf" name="Changes" comment="At demo version I had too enormous if/else statements.&#10;This is my first attempt to fix this bad coding style." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rutar/IdeaProjects/Day_1"
   }
 }]]></component>
   <component name="RunManager" selected="Application.AvoidIf1">
@@ -86,6 +79,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656713088948</updated>
     </task>
+    <task id="LOCAL-00001" summary="At demo version I had too enormous if/else statements.&#10;This is my first attempt to fix this bad coding style.">
+      <created>1656718582186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656718582186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="At demo version I had too enormous if/else statements.&#10;This is my first attempt to fix this bad coding style." />
+    <option name="LAST_COMMIT_MESSAGE" value="At demo version I had too enormous if/else statements.&#10;This is my first attempt to fix this bad coding style." />
   </component>
 </project>
